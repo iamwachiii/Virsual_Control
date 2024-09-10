@@ -14,6 +14,7 @@ namespace Virsual_Control
             _graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
+            //wachi
         }
 
         protected override void Initialize()
