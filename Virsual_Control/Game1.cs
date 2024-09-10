@@ -44,7 +44,7 @@ namespace Virsual_Control
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
-            // TODO: Add your drawing code here
+            //BaiToey
 
             base.Draw(gameTime);
         }
