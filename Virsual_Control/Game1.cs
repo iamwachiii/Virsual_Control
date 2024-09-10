@@ -27,7 +27,7 @@ namespace Virsual_Control
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            // TODO: use this.Content to load your game content here
+            // TODO: use this.Content to load your game content here // $$Best is here$$
         }
 
         protected override void Update(GameTime gameTime)
