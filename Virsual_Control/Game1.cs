@@ -20,7 +20,7 @@ namespace Virsual_Control
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
-
+            //PPTV Puwanat_waitem
             base.Initialize();
         }
 
